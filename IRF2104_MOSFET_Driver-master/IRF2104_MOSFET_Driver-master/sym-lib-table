@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name IRF2104-Driver-rescue)(type Legacy)(uri "${KIPRJMOD}/IRF2104 Driver-rescue.lib")(options "")(descr ""))
+)
